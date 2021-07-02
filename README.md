@@ -1,2 +1,2 @@
 # hello
-sin
+sin/cos=tan
